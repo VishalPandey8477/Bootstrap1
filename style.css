@@ -1,0 +1,220 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada:regular,700);
+@import url(https://fonts.googleapis.com/css?family=Grand+Hotel:regular);
+
+.footerContainer,
+.orderButton,
+.blackCoffeeContainer,
+.vccButton,
+.weAreOpenContainer,
+.footerContainer {
+    background-color: #29a19c;
+}
+
+
+/* ---------------------------------All Hidden on webs----------------------- */
+.hiddenOnWeb,
+.toggleMenuBar {
+    display: none;
+}
+
+.imageLogo {
+    width: 80%;
+}
+
+.row {
+    color: white;
+}
+
+.toggleMenuBarItems {
+    color: white;
+}
+
+.nav-item {
+    color: white;
+    margin-left: 4rem;
+    font-size: 1.6rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+
+.ctHeading {
+    font-family: "Grand Hotel";
+    /* margin-left: 5rem; */
+    font-size: 11rem;
+}
+
+.ctHeadLine {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+}
+
+.orderButton {
+    font-size: 2.1rem;
+    padding: 0% 5% 0% 5%;
+    border: 2px solid #29a19c;
+    border-radius: 12px;
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.ctContent {
+    font-size: 1rem;
+    letter-spacing: 1.4px;
+}
+
+.coffeeTimeContainer {
+    background-image: url(images/first_bottom.png), url(images/cups.png);
+    background-repeat: no-repeat;
+    background-size: 100%, 55%;
+    background-position: bottom, right bottom 3.9rem;
+    padding-bottom: 18%;
+}
+
+/* ----------------------------------------------------------Second Part-------------------------------------------- */
+
+.bccHeading {
+    font-family: "Grand Hotel";
+    font-size: 7.6rem;
+    line-height: 6rem;
+}
+
+.bccLeft,
+.hccLeft,
+.wccLeft {
+    margin-top: 11%;
+}
+
+.bccButton,
+.hccButton {
+    color: white;
+    border: 2px solid #29a19c;
+    font-size: 1.9rem;
+    font-weight: 800;
+    padding: 2% 10%;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    background-color: #222831;
+}
+
+.bccText,
+.hccText {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.4rem;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    line-height: 2rem;
+    font-weight: 200;
+}
+
+.hotCoffeeContainer {
+    background-image: url(images/hcc_top.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 10%;
+}
+
+.blackCoffeeHideForWeb {
+    display: none;
+}
+
+.hccRight {
+    margin-top: 28%;
+}
+
+.vccHeading {
+    font-family: "Grand Hotel";
+    font-size: 9rem;
+}
+
+.crHeading,
+.wrcHeading,
+.obcHeading {
+    font-family: "Grand Hotel";
+    font-size: 5rem;
+    margin-top: 5%;
+}
+
+.vccButton {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.7rem;
+    font-weight: 800;
+    border-radius: 15px;
+    letter-spacing: 1px;
+}
+
+.crName {
+    font-family: "Grand Hotel";
+    font-size: 3.5rem;
+}
+
+.crcText {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    line-height: 1rem;
+}
+
+.customerReviewContainer {
+    background-image: url(images/crcBottom.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+    padding-bottom: 18%;
+}
+
+.wrcDay {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.wrcTime {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+}
+
+.ourBranchesRow {
+    margin-top: 15%;
+}
+
+.ourBranchesContainer {
+    background-image: url(images/obc_top.png), url(images/obc_bottom.png);
+    background-repeat: no-repeat;
+    background-position: top, bottom;
+    background-size: 100%;
+    padding-bottom: 18%;
+}
+
+.obcCountry {
+    width: 100%;
+}
+
+.footerContainer {
+    padding-bottom: 5%;
+}
+
+.row li {
+    list-style: none;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+
+}
+
+.footerInfo,
+.footerContact {
+    font-size: 2rem;
+    font-weight: 700;
+
+}
+
+.col-1 {
+    font-weight: 600;
+}
+
+.footerMenu div {
+    font-size: 1.2rem;
+}

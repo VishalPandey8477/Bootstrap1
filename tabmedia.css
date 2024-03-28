@@ -1,0 +1,69 @@
+@media screen and (max-width: 768px) {
+
+    /* --------------------------------Display none all the below */
+    .topMenuBar {
+        display: none;
+    }
+
+    .firstImageContainer,
+    .toggleMenuBar {
+        display: block;
+    }
+
+    .toggleMenuBarIconDiv {
+        border: 5px solid black;
+    }
+
+    .coffeeTimeContainer {
+        background-image: none;
+        padding-bottom: 10%;
+    }
+
+    .ctHeading {
+        font-size: 10rem;
+    }
+
+    .firstImage {
+        width: 98%;
+    }
+
+
+    .bccHeading {
+        font-size: 6rem;
+    }
+
+    .bccButton,
+    .hccButton {
+        font-size: 1rem;
+    }
+
+    .bccText,
+    .hccText {
+        font-size: 1rem;
+        line-height: 1px;
+    }
+
+    .vccHeading {
+        font-size: 7rem;
+    }
+
+    .crcText {
+        font-size: 1rem;
+    }
+
+    .crName {
+        font-size: 3rem;
+    }
+
+    .crcText {
+        font-size: 1rem;
+    }
+
+    .branchesText {
+        text-align: justify;
+    }
+
+    .footerContainer {
+        padding-bottom: 50%;
+    }
+}

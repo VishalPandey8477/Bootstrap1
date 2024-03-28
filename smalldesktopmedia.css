@@ -1,0 +1,17 @@
+@media screen and (max-width:1282px) {
+    .ctHeading {
+        font-size: 8rem;
+    }
+
+    .coffeeTimeContainer {
+
+        background-size: 100%, 55%;
+        background-position: bottom, right bottom 3.2rem;
+        padding-bottom: 18%;
+    }
+
+    .crHeading {
+        font-size: 5rem;
+    }
+
+}

@@ -1,0 +1,78 @@
+@media screen and (max-width:576px) {
+    .hiddenOnMobile {
+        display: none;
+    }
+
+    .hiddenOnWeb {
+        display: block;
+    }
+
+    .toggleMenuBarLogo {
+        width: 90%;
+    }
+
+    .nav-link {
+        font-size: 1rem;
+        color: white;
+    }
+
+    .ctHeading {
+        font-size: 5rem;
+    }
+
+    .ctContent {
+        font-size: 0.8rem;
+        line-height: 1rem;
+        text-align: justify;
+    }
+
+    .bccText {
+        font-size: 1rem;
+        letter-spacing: 0;
+        word-spacing: 0;
+        text-align: justify;
+    }
+
+    .orderButton {
+        font-size: 1.5rem;
+    }
+
+    .bccHeading {
+        font-size: 4rem;
+    }
+
+    .hotCoffeeContainer {
+        padding-bottom: 0;
+    }
+
+    .vccHeading {
+        font-size: 4rem;
+    }
+
+    .crHeading {
+        font-size: 3rem;
+    }
+
+
+    .ourBranchesCards {
+        box-shadow: 1px 1px 10px #29a19c;
+    }
+
+    .ourBranchesContainer {
+        padding-bottom: 35%;
+    }
+
+
+    .vccButton {
+        font-size: 0.8rem;
+    }
+
+    .footerMenu div {
+        font-size: 0.9rem;
+    }
+
+    .footerContainer {
+        padding-bottom: 10%;
+    }
+
+}
